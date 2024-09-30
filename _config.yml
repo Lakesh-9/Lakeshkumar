@@ -1,11 +1,6 @@
-locale                   : "en-US"
-title                    : #"Susan Paudel / PhD"
-title_separator          : "-"
-name                     : &name "Susan Paudel"
-description              : &description "Student in UGA"
-URL                      : "https://susanpaudel25.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/example" # the subpath of your site, e.g. "/blog"
-repository               : "susanpaudel25/example"
+
+title                    : "Lakesh Kumar Suryadevara"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
