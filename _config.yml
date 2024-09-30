@@ -22,3 +22,4 @@ author:
   # LinkedIn Profile
   linkedin         : "https://www.linkedin.com/in/susan-paudel"  # Replace with your LinkedIn URL
   phone            : "+1234567890"  # Replace with your phone number
+theme: jekyll-theme-minimal
